@@ -1,0 +1,4 @@
+Enter three integers: 44
+44
+22
+The sum of 44, 44, and 22 is: 110
