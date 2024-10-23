@@ -1,0 +1,3 @@
+Enter the radius of the circle: 55
+The area of the circle is: 9503.31
+The circumference of the circle  is: 345.57
