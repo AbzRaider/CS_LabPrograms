@@ -16,10 +16,12 @@ int main() {
 	/* The Above Line Reads the radius from user input. */
 
     // Calculating the area of the circle using the formula: Area = π * r^2
-    area = PI * r * r; /* The Above Line Calculates the area using the defined formula. */
+    area = PI * r * r; 
+	/* The Above Line Calculates the area using the defined formula. */
 
     // Calculating the circumference of the circle using the formula: Circumference = 2 * π * r
-    cmf = 2 * PI * r; /* The Above Line Calculates the circumference using the defined formula. */
+    cmf = 2 * PI * r; 
+	/* The Above Line Calculates the circumference using the defined formula. */
 
     // Output the results of area and circumference calculations
     printf("The area of the circle is: %.2f\n",area); /* Output the area result. */
