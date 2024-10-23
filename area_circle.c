@@ -25,5 +25,6 @@ int main() {
     printf("The area of the circle is: %.2f\n",area); /* Output the area result. */
     printf("The circumference of the circle  is: %.2f\n",cmf); /* Output the circumference result. */
 
-    return 0; /* The Above Line Indicates that the program has finished successfully. */
+    return 0; 
+	/* The Above Line Indicates that the program has finished successfully. */
 }
